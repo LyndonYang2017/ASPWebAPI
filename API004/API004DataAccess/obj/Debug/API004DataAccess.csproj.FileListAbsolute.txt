@@ -1,0 +1,10 @@
+C:\Software-ASP.WebAPI\API004\API004DataAccess\bin\Debug\API004DataAccess.dll.config
+C:\Software-ASP.WebAPI\API004\API004DataAccess\bin\Debug\API004DataAccess.dll
+C:\Software-ASP.WebAPI\API004\API004DataAccess\bin\Debug\API004DataAccess.pdb
+C:\Software-ASP.WebAPI\API004\API004DataAccess\bin\Debug\EntityFramework.dll
+C:\Software-ASP.WebAPI\API004\API004DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Software-ASP.WebAPI\API004\API004DataAccess\bin\Debug\EntityFramework.xml
+C:\Software-ASP.WebAPI\API004\API004DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Software-ASP.WebAPI\API004\API004DataAccess\obj\Debug\API004DataAccess.dll
+C:\Software-ASP.WebAPI\API004\API004DataAccess\obj\Debug\API004DataAccess.pdb
+C:\Software-ASP.WebAPI\API004\API004DataAccess\obj\Debug\API004DataAccess.csprojResolveAssemblyReference.cache
